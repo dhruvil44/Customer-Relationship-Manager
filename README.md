@@ -19,5 +19,5 @@ And the form for adding a new Customer looks like:
 
 
 
-When some item is searched then the result looke like:
+When some item is searched then the result looks like:
 ![](images/Screenshot%20(68).png)

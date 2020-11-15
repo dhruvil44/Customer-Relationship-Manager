@@ -1,8 +1,8 @@
 # Customer-Relationship-Manager
-This Project is basically displaying the CRUD features using Spring MVC and Hibernate and the Database used in MySQL.
+This Project is basically displaying the CRUD features using Spring MVC and Hibernate and the Database used is MySQL.
 
 This webapp allows you to create, read, update and delete the customer information stored in the database.
-The database used is connected to the project through JDBC Drivers.
+The database used is connected through JDBC Drivers.
 Also a Search option has been provided to search any customer in the database.
 
 [To see the main Code part....Click here](src/main/java/com/luv2code/springboot/thymeleafdemo)
